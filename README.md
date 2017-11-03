@@ -1,9 +1,3 @@
-# Python API for Scalr
-
-<em>This repo was based on [scalr-tutorials/apiv2-examples](https://github.com/scalr-tutorials/apiv2-examples.git). Only python folder was copied to make it python specific.</em>
-
-## Below is the original README.md content:
-
 Scalr APIv2 Python sample
 =========================
 
@@ -28,3 +22,5 @@ Two sample scenarii are included:
     it did.
     
 You can find the code for those samples under [`scenarii`](./scenarii).
+
+

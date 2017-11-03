@@ -138,7 +138,6 @@ target/
 Session.vim
 .netrwhist
 *~
-*.swp
 
 
 ### Project ###
@@ -146,3 +145,12 @@ Session.vim
 creds.json
 config.json
 
+### excel ###
+*.xlsx
+
+# tmp directories
+tmp/**
+temp/**
+
+# coupang files
+coupang*

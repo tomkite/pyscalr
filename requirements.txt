@@ -1,3 +1,4 @@
 requests>=2.5.1
 pytz>=2014.10
 nose
+boto3
